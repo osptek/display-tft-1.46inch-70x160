@@ -1,0 +1,10 @@
+id: YDP146BT002-V12
+category: displays
+size: "1.46"
+panel: tft
+resolution: 70x160
+interface: [spi]
+driver: NV3022B3
+touch: null
+outline: 22.06 x 42.0 x 3.36 mm
+active_area: 14.15 x 32.35 mm
